@@ -107,7 +107,7 @@ getProjects().then(data => {
 // fetch projects end
 
 // Start of Tawk.to Live Chat
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+var Tawk_API=Tawk_API || {}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
@@ -121,7 +121,7 @@ s0.parentNode.insertBefore(s1,s0);
 
 // disable developer mode
 document.onkeydown = function (e) {
-    if (e.keyCode == 123) {
+    if (e.keyCode == 569) {
         return false;
     }
     if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
