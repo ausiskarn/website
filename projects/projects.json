@@ -40,58 +40,66 @@
     }
   },
   {
-    "name": "Documentary Style",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Shorts + Insta Reels",
+    "desc": "In this folder I have added some of the famous trending type shorts that has boom",
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://youtu.be/qElp1VPCSew?si=VCJccB-hOO1jJ3O6",
-      "code": "https://github.com/AK/instagram-mern"
+      "view": "https://drive.google.com/drive/folders/166SV4hUkGTITvQhjtTw66r41yreRt_nf"
+      
     }
   },
   {
-    "name": "Trending style",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "name": "Trending Style",
+    "desc": "In this folder All the trendy style video is added which helps me know what particular type of editing style you like.",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/AK/flipkart-mern"
+      "view": "https://drive.google.com/drive/folders/15rbdNjROwfohzaE9gdtptEgV5yrcvDFZ"
+      
     }
   },
   {
-    "name": "Advance Effect",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "name": "Creative ShowReels",
+    "desc": "In this folder I have added all the creative edits and color correction in a single showreel.",
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/AK/resumegen"
+      "view": "https://drive.google.com/drive/folders/15rbdNjROwfohzaE9gdtptEgV5yrcvDFZ"
+      
     }
   },
   {
-    "name": "Color Grading",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "Long form video edits",
+    "desc": "In this Folder I have added the long videos that I have edited.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/AK/React-Projects"
+      "view": "https://drive.google.com/drive/folders/16Ih7KsI_liukBMNRpeprMbkVv5b5VqH9"
+      
     }
   },
   {
-    "name": "Creative",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "name": "Wait! Coming Soon",
+    "desc": "",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/AK/Flipkart-Clone-PHP",
-      "code": "https://github.com/AK/Flipkart-Clone-PHP"
+      "view": "#"
     }
   },
   {
-    "name": "Wedding Videos",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "name": "Wait! Coming Soon",
+    "desc": "",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Wait! Coming Soon",
+    "desc": "",
     "image": "jspro",
     "category": "basicweb",
     "links": {
